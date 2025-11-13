@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Proyecto_Diario_Rivas_Andres_Iria</string>
+    <string name="app_name">DiarioPersonal_Rivas_Andres_Iria</string>
+    <string name="welcome">Bienvenido!</string>
+    <string name="tv_user">Nombre de Usuario:</string>
+    <string name="et_user">user</string>
+    <string name="tv_password">Contraseña:</string>
+    <string name="et_password">pass</string>
+    <string name="Aceptar">Aceptar</string>
+    <string name="wrong_login">Información incorrecta</string>
 </resources>
